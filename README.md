@@ -11,4 +11,4 @@ For the application to be user friendly I have added a break down of the costs. 
 All the user must do is enter each of the inputs and click on the “submit time” button and the results are displayed at the top of their screen.
 If the user wants to calculate a different time they can easily click "enter new time" and it takes you back to the input screen.
 
-
+Here is a direct link to try out the baby sitting calculator: https://hwilson2563.github.io/pillar.babysitting.kata/ 
